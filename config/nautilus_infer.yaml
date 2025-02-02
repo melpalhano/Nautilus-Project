@@ -1,0 +1,8 @@
+encoder_name: miche-256-feature
+u_size: 1024
+v_size: 2048
+quant_bit: 7
+dim: 1024
+depth: 24
+max_seq_len: 12000
+checkpoint_every: 5000
