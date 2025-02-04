@@ -2,9 +2,14 @@
 
 ### [Project Page](https://nautilusmeshgen.github.io) | [Paper](https://arxiv.org/abs/2501.14317)
 
-Yuxuan Wang*, Xuanyu Yi*, Haohan Weng*, Qingshan Xu, Xiaokang Wei, Xianghui Yang, Chunchao Guo, Long Chen and Hanwang Zhang
+Yuxuan Wang*, Xuanyu Yi*, Haohan Weng*, Qingshan Xu, Xiaokang Wei, 
+
+Xianghui Yang, Chunchao Guo, Long Chen, Hanwang Zhang
+
+(_*Equal Contribution_)
 
 Nanyang Technological University, Tencent Hunyuan, 
+
 The Hong Kong Polytechnic University, Hong Kong University of Science and Technology
 
 ![image](https://github.com/Yuxuan-W/Nautilus/blob/main/figures/representative_img.jpg)
