@@ -1,12 +1,46 @@
-# Nautilus: Locality-aware Autoencoder for Scalable Mesh Generation
+<p align="center">
+  <img src="figures/logo_vb.png" align="center" width="50%">
+  
+  <h2 align="center"><strong>Nautilus: Locality-aware Autoencoder for Scalable Mesh Generation</strong></h2>
+
+  <p align="center">
+    <a href='yuxuanw.me'>Yuxuan Wang</a><sup>*1</sup>,</span>
+    <a href='https://yxymessi.github.io'>Xuanyu Yi</a><sup>*1</sup>,</span>
+    <a href='https://whaohan.github.io'>Haohan Weng</a><sup>*2</sup>,</span>
+    <a href='https://ghixu.github.io'>Qingshan Xu</a><sup>1</sup>,</span>
+    Xiaokang Wei<sup>3</sup>,</span>
+    <br>
+    <a href='https://xianghui-yang.netlify.app'>Xianghui Yang</a><sup>2</sup>,</span>
+    Chunchao Guo<sup>2</sup>,</span>
+    <a href='https://zjuchenlong.github.io'>Long Chen</a><sup>4</sup>,</span>
+    <a href='https://mreallab.github.io/index.html'>Hanwang Zhang</a><sup>1</sup>
+    <br>
+    <sup>*</sup><em>Equal contribution</em>
+    <br>
+    <sup>1</sup>Nanyang Technological University,
+    <sup>2</sup>Tencent Hunyuan,
+    <br>
+    <sup>3</sup>The Hong Kong Polytechnic University,
+    <sup>4</sup>Hong Kong University of Science and Technology,
+
+</p>
+
+<div align="center">
+
+<a href='https://nautilusmeshgen.github.io'><img src='https://img.shields.io/badge/Project-Page-green'></a> 
+<a href='https://arxiv.org/abs/2501.14317'><img src='https://img.shields.io/badge/arXiv-2501.14317-b31b1b.svg'></a> 
+
+</div>
+
+<!-- # Nautilus: Locality-aware Autoencoder for Scalable Mesh Generation
 
 <a href='https://nautilusmeshgen.github.io'><img src='https://img.shields.io/badge/Project-Page-blue'></a> 
-<a href='https://arxiv.org/abs/2501.14317'><img src='https://img.shields.io/badge/arXiv-2501.14317-b31b1b.svg'></a> 
+<a href='https://arxiv.org/abs/2501.14317'><img src='https://img.shields.io/badge/arXiv-2501.14317-b31b1b.svg'></a>  -->
    
 
 <!-- ### [Project Page](https://nautilusmeshgen.github.io) | [Paper](https://arxiv.org/abs/2501.14317) -->
 
-Yuxuan Wang*, Xuanyu Yi*, Haohan Weng*, Qingshan Xu, Xiaokang Wei, 
+<!-- Yuxuan Wang*, Xuanyu Yi*, Haohan Weng*, Qingshan Xu, Xiaokang Wei, 
 
 Xianghui Yang, Chunchao Guo, Long Chen, Hanwang Zhang
 
@@ -14,7 +48,7 @@ Xianghui Yang, Chunchao Guo, Long Chen, Hanwang Zhang
 
 Nanyang Technological University, Tencent Hunyuan, 
 
-The Hong Kong Polytechnic University, Hong Kong University of Science and Technology
+The Hong Kong Polytechnic University, Hong Kong University of Science and Technology -->
 
 ![image](https://github.com/Yuxuan-W/Nautilus/blob/main/figures/representative_img.jpg)
 
