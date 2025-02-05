@@ -1,6 +1,10 @@
 # Nautilus: Locality-aware Autoencoder for Scalable Mesh Generation
 
-### [Project Page](https://nautilusmeshgen.github.io) | [Paper](https://arxiv.org/abs/2501.14317)
+<a href='https://nautilusmeshgen.github.io'><img src='https://img.shields.io/badge/Project-Page-blue'></a> 
+<a href='https://arxiv.org/abs/2501.14317'><img src='https://img.shields.io/badge/arXiv-2501.14317-b31b1b.svg'></a> 
+   
+
+<!-- ### [Project Page](https://nautilusmeshgen.github.io) | [Paper](https://arxiv.org/abs/2501.14317) -->
 
 Yuxuan Wang*, Xuanyu Yi*, Haohan Weng*, Qingshan Xu, Xiaokang Wei, 
 
