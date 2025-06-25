@@ -56,12 +56,8 @@ The Hong Kong Polytechnic University, Hong Kong University of Science and Techno
 
 ### Trained Model
 
-**We plan to release the checkpoints upon the acceptance of the paper.**
-
 Due to company confidentiality policies,
 we are unable to release the model trained on the full dataset with the 1024-dimension Michelangelo encoder.
-Instead, we provide a version trained with the 256-dimension Michelangelo encoder and a filtered dataset solely based on Objaverse.
-The performance of this model is moderately lower compared to the full version.
 
 ### Installation
 
